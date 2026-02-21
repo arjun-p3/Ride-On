@@ -1,4 +1,7 @@
-# Essential-Pathway-Game
+# Ride On
+
+This game was made as a part of my Unity Junior Programmer Pathway Course. The assets were provided by Unity.
+
 
 Controls : W/A/S/D keys   or   Arrow keys
 
